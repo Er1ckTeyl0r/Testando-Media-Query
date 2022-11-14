@@ -8,6 +8,8 @@
 
 html, body {
     background: lightgrey;
+    width: 100vw;
+    height: 100vh;
 }
 
 header {
